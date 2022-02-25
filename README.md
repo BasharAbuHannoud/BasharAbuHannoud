@@ -1,4 +1,4 @@
-## Hi there ,  I'm Bashar Abu Hannoud :bulb: :wave:
+## Hi there ,  I'm Bashar Abu Hannoud :bulb::wave:
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on React Projects
 - 📫 How to reach me: (abuhannoud.bashar@gmail.com)
