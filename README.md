@@ -36,16 +36,6 @@
 <br />
 
 
-
-<br />
-
-
-## Profile Views
-<img src="https://profile-counter.glitch.me/mukul98s/count.svg">
-
-<br />
-
-
 <!--
 **BasharAbuHannoud/BasharAbuHannoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
