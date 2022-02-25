@@ -6,7 +6,7 @@
 - :zap: I always love to learn new things
 
 ## Find me at :
-[](https://www.linkedin.com/in/bashar-abu-hannoud/)
+[Linkedin](https://www.linkedin.com/in/bashar-abu-hannoud/)
 
 <!--
 **BasharAbuHannoud/BasharAbuHannoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
