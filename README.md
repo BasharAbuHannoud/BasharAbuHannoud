@@ -1,5 +1,5 @@
 ## Hi there ,  I'm Bashar Abu Hannoud :bulb::wave:
-- 🌱 I’m a front-end developer React.js | Next.js | Angular | Node.js | Nest.js
+- 🌱 I’m a full-stack developer Node.js | Nest.js | React.js | Next.js | Angular | 
 - 👯 I’m looking to collaborate on React Projects
 - 📫 How to reach me: abuhannoud.bashar@gmail.com
 - :computer: Love programming
